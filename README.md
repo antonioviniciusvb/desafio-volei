@@ -2,5 +2,4 @@
 
 > Finalizado
 
-Este foi o primeiro desafio que conclui rs 
- - Linguagem C, em meados de 2015
+Este foi o primeiro desafio que conclui, em meados de 2015, Linguagem C.
