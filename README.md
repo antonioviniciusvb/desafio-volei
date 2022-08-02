@@ -2,4 +2,10 @@
 
 > Finalizado
 
-Este foi o primeiro desafio que conclui, em meados de 2015, Linguagem C.
+``` 
+Linguagem C
+
+````
+
+O 1º desafio que consegui concluir.
+Estava aprendendo a programar e foi um desafio daqueles rs.
